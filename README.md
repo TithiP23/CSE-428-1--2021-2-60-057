@@ -30,6 +30,3 @@ Welcome to the repository for the CSE-428 Section-1 project. This repository con
 - **Interface Evaluation:** User testing results and feedback are included in `UpCycle_Interface-Evaluation.docx`.  
 - **Machine Learning Model:** The notebook `Recyclable and Household Waste Classification.ipynb` contains the code for waste classification experiments.
 
----
-
-Would you like me to add a short **Figma link section** at the end of this README too (for your prototype)?
